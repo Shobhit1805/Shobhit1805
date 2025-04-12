@@ -24,6 +24,13 @@ When I’m not coding, you’ll find me learning about new tech trends or solvin
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&style=flat)
 
 ----
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shobhit1805/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shobhitjain1805@gmail.com)
+[![GitHub Follow](https://img.shields.io/github/followers/Shobhit1805?label=Follow&style=social)](https://github.com/Shobhit1805)
+
+-------
 
 ### 📊 GitHub Stats
 
@@ -34,8 +41,3 @@ Total PRs:              0
 Total Issues:           0
 Contributed to (last year): 0
 
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shobhit1805/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shobhitjain1805@gmail.com)
-[![GitHub Follow](https://img.shields.io/github/followers/Shobhit1805?label=Follow&style=social)](https://github.com/Shobhit1805)
