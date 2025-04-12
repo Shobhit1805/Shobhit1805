@@ -1,3 +1,13 @@
+<h1 align="center">SHOBHIT JAIN</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shobhit-jain-889ba0202/"><img src="https://img.shields.io/badge/Connect-blue?style=for-the-badge" />LinkedIn</a>
+  
+  <a href="sjain3994@gmail.com"><img src="https://img.shields.io/badge/Contact-red?style=for-the-badge" />Email</a>
+  
+  <a href="https://img.shields.io/github/followers/Shobhit1805?style=social"><img src="https://img.shields.io/badge/Follow-black?style=for-the-badge" />Follow</a>
+</p>
+------
 > "Code is like poetry — clean, elegant, and expressive." 💻
 
 Hey there! I'm **Shobhit Jain**, a 2nd-year undergraduate student at **IET DAVV INDORE**, pursuing B.E. in **Information Technology**. I'm an aspiring **Software Developer** with a passion for building user-centric and impactful applications.
