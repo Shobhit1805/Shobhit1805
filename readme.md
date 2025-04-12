@@ -1,13 +1,17 @@
 <h1 align="center">SHOBHIT JAIN</h1>
 
-<p justify="center">
-  <a href="https://www.linkedin.com/in/shobhit-jain-889ba0202/"><img src="https://img.shields.io/badge/Connect-blue?style=for-the-badge" /></a>
-  
-  <a href="sjain3994@gmail.com"><img src="https://img.shields.io/badge/Contact-red?style=for-the-badge" /></a>
-  
-  <a href="https://img.shields.io/github/followers/Shobhit1805?style=social"><img src="https://img.shields.io/badge/Follow-black?style=for-the-badge" /></a>
-</p>
-------
+<div align="center">
+  <a href="https://www.linkedin.com/in/shobhit-jain-889ba0202/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shobhit%20Jain-blue?style=social&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:sjain3994@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-shobhit.jain.itech@gmail.com-red?style=social&logo=gmail" alt="Gmail">
+  </a>
+  <a href="https://github.com/Shobhit1805">
+    <img src="https://img.shields.io/github/followers/Shobhit1805?style=social" alt="Follow">
+  </a>
+</div>
+
 
 > "Code is like poetry — clean, elegant, and expressive." 💻
 
@@ -36,20 +40,3 @@ When I’m not coding, you’ll find me learning about new tech trends or solvin
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&style=flat)
 
 ----
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shobhit1805/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shobhitjain1805@gmail.com)
-[![GitHub Follow](https://img.shields.io/github/followers/Shobhit1805?label=Follow&style=social)](https://github.com/Shobhit1805)
-
--------
-
-### 📊 GitHub Stats
-
-```text
-Total Stars Earned:     0
-Total Commits (2025):   70
-Total PRs:              0
-Total Issues:           0
-Contributed to (last year): 0
-
