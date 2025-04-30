@@ -26,14 +26,16 @@ When I’m not coding, you’ll find me learning about new tech trends or solvin
 
 ### ⚡ Tech Stack
 
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=flat)
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&style=flat)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&style=flat)
+<div align="center">
+  <img src="https://img.shields.io/badge/-React-000?logo=react&logoColor=61DAFB&style=flat-square" alt="React" />
+  <img src="https://img.shields.io/badge/-Redux-000?logo=redux&logoColor=764ABC&style=flat-square" alt="Redux" />
+  <img src="https://img.shields.io/badge/-Framer--Motion-000?logo=framer&logoColor=white&style=flat-square" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-000?logo=tailwind-css&logoColor=38B2AC&style=flat-square" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=F7DF1E&style=flat-square" alt="JavaScript" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/-Git-000?logo=git&logoColor=F05032&style=flat-square" alt="Git" />
+  <img src="https://img.shields.io/badge/-C++-000?logo=c%
 
 ----
