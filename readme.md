@@ -1,14 +1,11 @@
 <h1 align="center">SHOBHIT JAIN</h1>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shobhit-jain-889ba0202/">
-    <img src="https://img.shields.io/badge/LinkedIn-Shobhit%20Jain-blue?style=social&logo=linkedin" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/shobhit-jain-889ba0202/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:sjain3994@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-shobhit.jain.itech@gmail.com-red?style=social&logo=gmail" alt="Gmail">
-  </a>
-  <a href="https://github.com/Shobhit1805">
-    <img src="https://img.shields.io/github/followers/Shobhit1805?style=social" alt="Follow">
+  <a href="mailto:sjain3994@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
