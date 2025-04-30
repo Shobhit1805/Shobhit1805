@@ -36,6 +36,11 @@ When I’m not coding, you’ll find me learning about new tech trends or solvin
   <br/>
 
   <img src="https://img.shields.io/badge/-Git-000?logo=git&logoColor=F05032&style=flat-square" alt="Git" />
-  <img src="https://img.shields.io/badge/-C++-000?logo=c%
+  <img src="https://img.shields.io/badge/-C++-000?logo=c%2B%2B&logoColor=00599C&style=flat-square" alt="C++" />
+  <img src="https://img.shields.io/badge/-Java-000?logo=java&logoColor=007396&style=flat-square" alt="Java" />
+  <img src="https://img.shields.io/badge/-HTML5-000?logo=html5&logoColor=E34F26&style=flat-square" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-000?logo=css3&logoColor=1572B6&style=flat-square" alt="CSS3" />
+</div>
+
 
 ----
