@@ -9,7 +9,6 @@ I like finding out *why* things break, *how* they can be built better, and then 
 
 Building full-stack web apps — mostly with React, Node.js, and MongoDB. I've shipped a real-time networking platform, rebuilt a college website, and made a music player just to understand state management properly. I solve problems on LeetCode the same way I write code — trying to understand the underlying idea, not just get it to pass.
 
-
 ---
 
 ### a few things I've shipped
