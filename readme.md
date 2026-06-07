@@ -1,83 +1,44 @@
-<div align="center">
+# Shobhit Jain
 
-<h1>Hi, I'm Shobhit Jain 👋</h1>
-
-<p>
-  <b>Backend-Focused Full Stack Developer</b> <br/>
-  B.E. Information Technology • IET DAVV • CGPA 8.3
-</p>
-
-</div>
+Final year IT student at IET DAVV, Indore.
+I like finding out *why* things break, *how* they can be built better, and then actually building them.
 
 ---
 
-<h2>🚀 About Me</h2>
+### what keeps me busy
 
-<p>
-I enjoy building scalable backend systems, secure APIs, and real-time applications.  
-My focus is on writing modular, maintainable code with strong architectural foundations.
-</p>
+Building full-stack web apps — mostly with React, Node.js, and MongoDB. I've shipped a real-time networking platform, rebuilt a college website, and made a music player just to understand state management properly. I solve problems on LeetCode the same way I write code — trying to understand the underlying idea, not just get it to pass.
 
-<ul>
-  <li>🔐 Secure authentication using JWT & bcrypt</li>
-  <li>⚡ Real-time systems using Socket.io</li>
-  <li>🌐 RESTful API design with Node.js & Express</li>
-  <li>🗄️ MongoDB schema design & validation</li>
-  <li>☁️ Deployment on AWS (EC2 + NGINX + PM2)</li>
-</ul>
 
 ---
 
-<h2>🧠 Technical Stack</h2>
+### a few things I've shipped
 
-<p>
-<b>Languages:</b> C++, JavaScript, Java, SQL  
-<br/>
-<b>Backend:</b> Node.js, Express.js, MongoDB  
-<br/>
-<b>Frontend:</b> React.js, TailwindCSS  
-<br/>
-<b>Core CS:</b> DSA, OS, DBMS, OOP, CN
-</p>
+**[AlgoMates](https://github.com/Shobhit1805/algomates-frontend)**
+Developer networking — profiles, connections, real-time chat, premium memberships. Full backend on AWS.
+`Node.js` `Socket.io` `MongoDB` `Razorpay` `AWS`
 
----
+**[E-Cell Website · IET DAVV](https://github.com/Shobhit1805/ecell-website)**
+Rebuilt IET DAVV's entrepreneurship cell site. 40% faster. Smooth Framer Motion animations throughout.
+`React` `TailwindCSS` `Framer Motion`
 
-<h2>🏆 Competitive Programming</h2>
-
-<ul>
-  <li>LeetCode Knight (1909 rating – Top 4.45%)</li>
-  <li>CodeChef 3★ (Peak 1735)</li>
-  <li>Codeforces Pupil (Peak 1379)</li>
-  <li>1000+ DSA problems solved</li>
-</ul>
+**[Rythmix](https://github.com/Shobhit1805/rythmix)**
+Spotify-style music UI. Built it mostly to deeply understand Context API and component architecture.
+`React` `Context API` `TailwindCSS`
 
 ---
 
-<h2>🚀 Featured Project</h2>
+### competitive programming
 
-<h3>AlgoMates</h3>
+`LeetCode Knight · 1909 · top 4.45%` &nbsp; `Codeforces Specialist · 1536` &nbsp; `CodeChef 3★ · 1795` &nbsp; `1000+ problems`
 
-<p>
-A developer networking platform built with scalable backend architecture.
-</p>
-
-<ul>
-  <li>JWT-based authentication & middleware protection</li>
-  <li>Real-time chat with WebSockets</li>
-  <li>Connection & request management system</li>
-  <li>Razorpay integration for premium memberships</li>
-  <li>Deployed on AWS with NGINX & PM2</li>
-</ul>
+Rank 20 at Shaastra Programming Contest, IIT Madras (3500+ participants).
+Runner-up at DevCraft Hackathon, IIT Indore.
 
 ---
 
-<h2>📫 Let's Connect</h2>
+*Always curious. Usually debugging.*
 
-<p>
-LinkedIn: <a href="https://linkedin.com/in/shobhit-jain1805">shobhit-jain1805</a> <br/>
-GitHub: <a href="https://github.com/Shobhit1805">Shobhit1805</a>
-</p>
-
-<div align="center">
-  <p><i>Building scalable systems. Solving real problems.</i></p>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shobhit--jain1805-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shobhit-jain1805)
+[![Gmail](https://img.shields.io/badge/Gmail-shobhitj1805-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shobhitj1805@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Shobhit1805-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shobhit1805)
