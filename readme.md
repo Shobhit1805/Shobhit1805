@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&size=42&duration=0&pause=0&color=F0EDE8&background=1A1A1A00&center=true&vCenter=true&width=500&height=70&lines=Shobhit+Jain" alt="Shobhit Jain" />
 
-  <p>
-    Final year IT student at IET DAVV, Indore.<br>
-    I like finding out <i>why</i> things break, <i>how</i> they can be built better, and then actually building them.
-  </p>
+# Shobhit Jain
+
+Final year IT student at IET DAVV, Indore.<br>
+I like finding out *why* things break, *how* they can be built better, and then actually building them.
+
 </div>
 
 ---
 
-### <img src="https://img.shields.io/badge/-/%20-0F3D30?style=flat&labelColor=0F3D30&color=0F3D30" width="4"/> what keeps me busy
+### 📟 What keeps me busy
 
-Building full-stack web apps — mostly with React, Node.js, and MongoDB. I've shipped a real-time networking platform, rebuilt a college website, and made a music player just to understand state management properly. I solve problems on LeetCode the same way I write code — trying to understand the underlying idea, not just get it to pass.
+Building full-stack web apps — mostly with React, Node.js, and MongoDB. I've shipped a real-time networking platform, rebuilt a college-club website, and made a music player just to understand state management properly. I solve problems on LeetCode the same way I write code — trying to understand the underlying idea, not just get it to pass.
 
 ---
 
-### 📦 a few things I've shipped
+### 📦 A few things I've shipped
 
 | 🟢 [AlgoMates](https://github.com/Shobhit1805) | 🔵 [E-Cell Website](https://github.com/Shobhit1805) | 🟡 [Rythmix](https://github.com/Shobhit1805) |
 |---|---|---|
@@ -24,7 +24,7 @@ Building full-stack web apps — mostly with React, Node.js, and MongoDB. I've s
 
 ---
 
-### 🏆 competitive programming
+### 🏆 Competitive programming
 
 <div align="center">
 
@@ -34,8 +34,6 @@ Building full-stack web apps — mostly with React, Node.js, and MongoDB. I've s
 | Knight · top 4.45% | Specialist | 3★ Coder |
 
 </div>
-
-1000+ problems solved &nbsp;·&nbsp; Rank 20 @ Shaastra IIT Madras (3500+ participants) &nbsp;·&nbsp; Runner-up DevCraft @ IIT Indore
 
 ---
 
